@@ -2,6 +2,8 @@
 
 Contrary to popular believe, there are no tryhards to be found here.
 
+Dissappointments, however, are freely available.
+
 ## My work:
 > Oops! something went wrong.
 
