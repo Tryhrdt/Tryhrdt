@@ -1,4 +1,9 @@
-### Hi there 👋
+# Tryhrdt
+
+Contrary to popular believe, there are no tryhards to be found here.
+
+## My work:
+> Oops! something went wrong.
 
 <!--
 **Tryhrdt/Tryhrdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
